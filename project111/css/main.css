@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+
+h1 span{
+    color: green;
+}
+
+.main{
+    width: 1000px;
+    height: 800px;
+    border-spacing: 25px;
+    margin: 15px auto;
+}
+
+.left-main{
+    width: 450px;
+     border-radius: 5px;
+     box-shadow: 0px 2px 15px 1px rgb(0, 0, 0 / 80%);
+}
+
+.right-main{
+   width: 1250px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 15px 1px rgb(0, 0, 0 / 80%);
+}
+
